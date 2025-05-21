@@ -11,7 +11,7 @@
     },
     {
         "id": 3,
-        "nom": "Lef\u00c3\u00a8vre",
+        "nom": "Lefavre",
         "prenom": "Pierre"
     },
     {
@@ -47,16 +47,6 @@
     {
         "id": 10,
         "nom": "Blanc",
-        "prenom": "L\u00c3\u00a9a"
-    },
-    {
-        "id": 11,
-        "nom": "ali",
-        "prenom": "aloulou"
-    },
-    {
-        "id": 12,
-        "nom": "juni",
-        "prenom": "juni"
+        "prenom": "Luca"
     }
 ]
